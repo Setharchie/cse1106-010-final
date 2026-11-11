@@ -1,0 +1,5 @@
+1. In this project, the contribution was equal, i did some troubleshooting. some coding, some hardware work and github steps as well
+2. Some of the challening parts I encountered were trying to figure out how to implement the led function into my monitor.c file, figuring out how to get our reading.txt to work properly, and overall just with coding since I'm still in the start of learing to code.
+3. We continuously ran the code and made changes when we either saw something was wrong or needed to add things to our code.
+4. Getting started off with github is something I'm sure I'll use in the future and just overall knowledge over linux and hardware.
+5. There are a few things that I would tweak up like removing some redudant functions in my monitor.c since I have a text file to show my readings now. Then maybe, just make an adjustment where the user can choose how many rooms they want to document their readings for. 
